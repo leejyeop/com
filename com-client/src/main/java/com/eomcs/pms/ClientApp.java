@@ -11,7 +11,7 @@ public class ClientApp {
 
   static String host;
   static int port;
-
+//
   public static void main(String[] args) {
     if (args.length != 2) {
       System.out.println("프로그램 사용법:");
